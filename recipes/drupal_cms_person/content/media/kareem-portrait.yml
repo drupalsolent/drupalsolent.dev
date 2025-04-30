@@ -18,7 +18,7 @@ default:
       target_id: 1
   name:
     -
-      value: Ambitious-sitebuilder-GettyImages-1327498437.jpg
+      value: unsplash_Leilani_Angel.png
   created:
     -
       value: 1734903584
@@ -35,5 +35,6 @@ default:
       entity: 5a635060-8540-4be7-bad9-8a51414731ad
       alt: 'Kareem - Ambitious Sitebuilder'
       title: ''
-      width: 341
-      height: 334
+      width: 600
+      height: 600
+

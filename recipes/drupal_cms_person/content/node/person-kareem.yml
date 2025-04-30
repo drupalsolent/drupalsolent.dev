@@ -54,7 +54,7 @@ default:
       value: kareem@sitebuilder.org
   field_person__phone_number:
     -
-      value: '+2 345 678 901'
+      value: '+33 6 39 98 43 65'
   field_person__role_job_title:
     -
       value: 'Drupal CMS Sitebuilder & Marketer'

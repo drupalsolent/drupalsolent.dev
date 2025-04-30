@@ -9,7 +9,7 @@ dependencies:
     - eca_content
     - eca_user
 id: remote_video_consent
-modeller: fallback
+modeller: bpmn_io
 label: 'Enable consent management for remote video'
 version: 1.0.0
 weight: 0
@@ -26,7 +26,10 @@ events:
   Event_save_config:
     plugin: 'config:save'
     label: 'Save config'
-    configuration: {  }
+    configuration:
+      config_name: ''
+      sync_mode: ''
+      write_mode: ''
     successors:
       -
         id: Activity_and_1

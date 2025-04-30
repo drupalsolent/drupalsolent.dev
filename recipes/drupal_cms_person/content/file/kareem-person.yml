@@ -9,14 +9,14 @@ default:
       target_id: 1
   filename:
     -
-      value: Ambitious-sitebuilder-GettyImages-1327498437.jpg
+      value: unsplash_Leilani_Angel.png
   uri:
     -
-      value: 'public://2025-01/Ambitious-sitebuilder-GettyImages-1327498437.jpg'
-      url: /sites/default/files/2025-01/Ambitious-sitebuilder-GettyImages-1327498437.jpg
+      value: 'public://2025-01/unsplash_Leilani_Angel.png'
+      url: /sites/default/files/2025-01/unsplash_Leilani_Angel.png
   filemime:
     -
-      value: image/jpeg
+      value: image/png
   filesize:
     -
       value: 91013

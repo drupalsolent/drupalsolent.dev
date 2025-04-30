@@ -15,7 +15,7 @@ default:
       target_id: 1
   name:
     -
-      value: Ambitious-developer-GettyImages-1366950193.jpg
+      value: unsplash_John_Schnobrich.png
   created:
     -
       value: 1734904462
@@ -30,7 +30,7 @@ default:
   field_media_image:
     -
       entity: f57ca5cc-9336-44d5-b847-b24876ffd1f6
-      alt: 'Smart looking young man sitting with a laptop in a cafe.'
+      alt: 'Three people sitting on a couch pointing at a laptop.'
       title: ''
-      width: 1440
-      height: 960
+      width: 1201
+      height: 901

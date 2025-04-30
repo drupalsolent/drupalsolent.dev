@@ -9,14 +9,14 @@ default:
       target_id: 1
   filename:
     -
-      value: Ambitious-developer-GettyImages-1366950193.jpg
+      value: unsplash_John_Schnobrich.png
   uri:
     -
-      value: 'public://2024-12/Ambitious-developer-GettyImages-1366950193.jpg'
-      url: /sites/default/files/2024-12/Ambitious-developer-GettyImages-1366950193.jpg
+      value: 'public://2024-12/unsplash_John_Schnobrich.png'
+      url: /sites/default/files/2024-12/unsplash_John_Schnobrich.png
   filemime:
     -
-      value: image/jpeg
+      value: image/png
   filesize:
     -
       value: 961257

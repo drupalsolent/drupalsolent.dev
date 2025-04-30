@@ -7,7 +7,7 @@ dependencies:
     - eca_content
     - eca_user
 id: privacy_setting_link
-modeller: fallback
+modeller: bpmn_io
 label: 'Show link to privacy settings'
 version: 1.0.0
 weight: 0
@@ -15,7 +15,10 @@ events:
   Event_save_config:
     plugin: 'config:save'
     label: 'Save config'
-    configuration: {  }
+    configuration:
+      config_name: ''
+      sync_mode: ''
+      write_mode: ''
     successors:
       -
         id: Activity_and_1
